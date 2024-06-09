@@ -1,10 +1,6 @@
 package codigo;
 
-/**
- * Enum representing the various types of tokens used by the lexer.
- * Each token represents a specific type of lexical unit in the input source code.
- * Author: Charly Ponce
- */
+
 public enum Tokens {
     // Palabras reservadas
     RESERVADA,
